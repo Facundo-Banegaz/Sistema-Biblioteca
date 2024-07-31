@@ -1,0 +1,20 @@
+
+.fondo {
+   background-color: #ec008c !important;
+}
+
+
+.border-title {
+    border-bottom: 3px solid #c5fe02; /* Color del borde */
+}
+
+
+.category-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.category-card {
+    height: 100%;
+}
