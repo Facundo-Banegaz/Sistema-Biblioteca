@@ -138,3 +138,4 @@ C:\Users\baneg\source\repos\Sistema-Biblioteca\Sistema-Biblioteca\obj\Debug\net8
 C:\Users\baneg\source\repos\Sistema-Biblioteca\Sistema-Biblioteca\obj\Debug\net8.0\Sistema-Biblioteca.pdb
 C:\Users\baneg\source\repos\Sistema-Biblioteca\Sistema-Biblioteca\obj\Debug\net8.0\Sistema-Biblioteca.genruntimeconfig.cache
 C:\Users\baneg\source\repos\Sistema-Biblioteca\Sistema-Biblioteca\obj\Debug\net8.0\ref\Sistema-Biblioteca.dll
+C:\Users\baneg\source\repos\Sistema-Biblioteca\Sistema-Biblioteca\obj\Debug\net8.0\Sistema-Biblioteca.sourcelink.json

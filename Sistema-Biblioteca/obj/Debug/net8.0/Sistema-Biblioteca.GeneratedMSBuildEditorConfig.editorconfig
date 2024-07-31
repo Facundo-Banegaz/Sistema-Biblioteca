@@ -22,6 +22,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/baneg/source/repos/Sistema-Biblioteca/Sistema-Biblioteca/Views/Home/Acceso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baneg/source/repos/Sistema-Biblioteca/Sistema-Biblioteca/Views/Home/Bibliotecario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaWJsaW90ZWNhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/baneg/source/repos/Sistema-Biblioteca/Sistema-Biblioteca/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
